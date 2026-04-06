@@ -1,5 +1,4 @@
 try:
-    # Replace 'your_file.txt' with the actual path to your file
     with open("your_file.txt", "r") as file:
         content = file.read()
         print(content)
